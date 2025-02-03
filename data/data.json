@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "protean-blend-441712-k6",
+  "private_key_id": "ab4e102474f3de7df445c94298be8f9dde827083",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCs8pPuAa5Q/BgD\nIjkbAo1OCpWU62mAqJBMuSRGgHtloz3Aib1NeJ0FevKaI8UMeI+hpmZdM82EKuj3\ntxAXc2ov0nTNeRI1G5vhmmyyqeSmze/qunEHkv+uyZ20oxCtkuCfmoDKlKTC5Csw\nS2V6iYR4bVy2u6EsenbCL0ZpolEhYwJH2ATDKHgchumUOlTTqFpsaW2WYSbuwcRP\nkMCXoxwHJMSJ1PO2gIP3sWaIBWVtapKs4GjRozSw328NLLGsiXm8tcwSDLiD0hj9\noU0rur5DtAWL2QVdkWr782IuCjXb2n4lJhcQHXYFSu9GxFCKWHF1hW37hTXo2RlP\nE+sQKP4NAgMBAAECggEAA8AZoTMxxkThy7UHiA/gyKTs5mclMl8VZ/48PuWSlS16\nX7r2Efvm64Nlfgv/K7yGjkUXPtLzghNA2mswYvbxb8z5pmF1EIOMXRK/GsJQeIEc\nrhpfkOTNs9QFFPGdBfBIMsgfeYCTeaoH8CiPi8KcBbCrbn5KxWzBt3UUxllLElCP\nUvk8IbJctDQKQZan/nb3UMdB64fZahgSrkLKZyE2fyEqHB7+C9TYN4Te/UJtP15O\nP+6Lj5+PuEUoNzBWcHCbH5Y4TA65enJkvBigd/lzZ9UTimmczSG/IVgbUJJQn8FK\nzJqAFbAujZLuVT05tU+iLYbaMtrcdCkVXftF0aB1GQKBgQDr528fjXug0GToPKPk\nqZYdQUaRi6CzpDo8x00ZGK6rdMNbczUcDjtodnMd21YKq9aLBTOz/M1Hg/oOaQC0\nlvj1qhnWZS9wJHQ1M4igvxIPMR/VGaphjEfyG2ixJIv4NXUvRP8k98HFP6AHOhnC\n9Jn3fehE9Ot5IMp/KK2ydngGxQKBgQC7rjJpgoCudb6UXwVg1ncGHQcVXLimdXlR\n/FoNHiA1WXzUwy3VaWKH8x9Z4sWcySjyHlq3IUEEgCvh7UA5VwWFCP5y1Huu5rUt\nGUHark5OC87QH1HMRWY4ayFODfQqm5IbMKSa/jXVCRqwVQ5UfUSlDeZbM0aBe182\nd6BoVzLOqQKBgGI8RucRyMin301iazF+eVeHZjaXuXz1R5clu3JW9+3IOs3rRNOB\nDbYrlTZ6rvLUqgvMR8KM5IMCb2/uw+9v6w6KHiZMjpuZYpcA9cVSq9eNsl7QSEZE\n33TvewJBYNQklr7vcXxYe+WC4EYCKNYpe7A3SzDj+ObBA/I9408szECtAoGAQLY2\nkaS6w+y7UqNU0mgAUC5QE/CNhm+47ijpz94UUvDRFvdZZV1Z6PBOXgrQAlhl8t2+\nf6hKp8ed2d+ZJmw37gAE5AkZwFuyGqO7zjANteFiZOZ3qMxBC7D8odIz30EW5qMm\nDn8ahqMF/cjGESHEOnkJdWa/p8OnN7uVpoRyc0kCgYEAxL6h7P176Kwpehwz/yKp\nOWyEE8n/mgybK3BD+ZQe8NPiQy+W6U9/Dt0+J7o8eRuw0kT0wzd2Lpo5HAu7fjPC\n1N5iEyiG2HDeXggVboBtjpc76v6+QsaZdTzYHR1CUd80LQRJ+XoOx24BNIuyDnbV\no56jRRYx4zO8qq52+QJa09g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lavka-480@protean-blend-441712-k6.iam.gserviceaccount.com",
+  "client_id": "102629853661558593793",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lavka-480%40protean-blend-441712-k6.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
